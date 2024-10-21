@@ -1,3 +1,7 @@
+Nama: Fitria Ayu Pratiwi
+Kelas:2B TRPL
+NIM: 362358302016
+
 ![Menambahkan validasi](image.png)
 ![post menambahkan](image-1.png)
 ![post](image-2.png)
