@@ -2,5 +2,5 @@
 ![post menambahkan](image-1.png)
 ![post](image-2.png)
 ![3](image-3.png)
-![ngrok](image-4.png)
+![ngrok](image-6.png)
 ![hasil ngrok](image-5.png)
